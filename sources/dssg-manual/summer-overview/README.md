@@ -160,7 +160,7 @@ we accomplish this throughout the summer.
 
 To look through all of our curriculum materials, please see the
 [curriculum
-section](/curriculum).
+section](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum).
 
 ## Orientation
 We expect that every incoming fellow has experience programming in
